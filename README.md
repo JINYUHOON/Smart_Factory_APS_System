@@ -5,12 +5,12 @@
 
 ![제목을-입력해주세요_-001](https://user-images.githubusercontent.com/68021998/141260335-85a93129-857b-40fe-a40c-c207a4f7cfeb.png)
 ------------------------------------------------------------------------------------------------
-# Smart_Factory_APS_System
+# Smart Factory APS System
 Use machine learning techniques to predict sales and automatize production and shipping process at a factory
 
 2021/10/18 ~ 2021/11/12
 
-
+발표 영상 : https://youtu.be/aANqPYg7hHs
 
 
 APS System 발주자동화 시스템 구축
